@@ -1,0 +1,15 @@
+# Simulation output
+sim/*.vvp
+sim/*.out
+
+# Waveforms
+waveforms/*.vcd
+
+# GTKWave session files
+*.gtkw
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.log
